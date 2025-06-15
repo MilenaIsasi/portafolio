@@ -23,13 +23,8 @@ Soy Licenciada en Administración, estudiante de Análisis de Sistemas y Full St
 - Idiomas
 - Contacto y redes
 
-## 🌐 Sitio en línea
-
-👉 [Visitar portafolio](https://milenaisasi.github.io/portafolio/)
-
 ## 📫 Contacto
 
-- 📧 [milenadesireisasirolon@gmail.com](mailto:milenadesireisasirolon@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/milena-desire-isasi-rolon/)
 - 💻 [GitHub](https://github.com/milenaisasi)
 - 📱 [WhatsApp](https://wa.me/595984717730)
